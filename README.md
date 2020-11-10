@@ -5,4 +5,7 @@ The software uses NVIDIA GPUs to accelerate the computations and hence requires 
 
 Presently the code is only capable of reading LOFAR HDF5 complex voltage data. If you want to use `cdmt` with a different input data type, let me know.
 
-Working on making cdmt read dada files - surya
+
+# cfb
+
+I am working on extending the code.
