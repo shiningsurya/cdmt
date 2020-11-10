@@ -1,0 +1,22 @@
+
+# dat
+*.dat
+*.fil
+
+# 
+*.o
+*.ii
+
+# binaries
+cfb
+fbsink
+t1
+tt
+hh
+tds
+
+# random
+mmakefile
+
+# test
+test*
